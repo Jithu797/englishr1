@@ -4,3 +4,5 @@ numpy==2.3.3
 torch==2.2.2
 openai-whisper @ git+https://github.com/openai/whisper.git@c0d2f624c09dc18e709e37c2ad90c039a4eb72a2
 SpeechRecognition==3.14.3
+supabase
+python-dotenv
