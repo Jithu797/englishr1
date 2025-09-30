@@ -1,0 +1,93 @@
+[
+  {
+    "id": 1,
+    "question": "Introduce yourself and tell us about your background.",
+    "what_we_are_testing": [
+      "Clarity of communication",
+      "Relevant background and experience",
+      "Confidence and professionalism"
+    ],
+    "expected_answer": [
+      "Education (degrees, certifications in English/teaching)",
+      "Experience (years of teaching, student demographics, specializations)",
+      "Key skills (language training, curriculum development, interactive teaching methods)",
+      "Achievements (successful student outcomes, innovative teaching approaches)"
+    ],
+    "non_negotiables": "Timing: 8:30 AM to 5:30 PM (may vary based on requirements)"
+  },
+  {
+    "id": 2,
+    "question": "Why did you choose teaching as a profession, and why do you want to be an English trainer for college students?",
+    "what_we_are_testing": [
+      "Passion for teaching",
+      "Understanding of students' needs",
+      "Motivation for the role"
+    ],
+    "expected_answer": [
+      "A strong desire to help students improve communication skills",
+      "Interest in guiding college students who need English for academics and careers",
+      "Ability to engage and inspire learners rather than just delivering content",
+      "Personal experiences or role models that led them to teaching"
+    ],
+    "non_negotiables": "Working Days: 6 days per week"
+  },
+  {
+    "id": 3,
+    "question": "What are the two most common grammatical errors you observe in students' spoken English, and how do you address them?",
+    "what_we_are_testing": [
+      "Question comprehension",
+      "Observation skills",
+      "Corrective teaching methods",
+      "Focus on practical communication improvement"
+    ],
+    "expected_answer": [
+      "Subject-Verb Agreement errors (e.g., She go to college → She goes to college)",
+      "Tense misuse (e.g., I am go to the market → I am going to the market)",
+      "Correction methods: drills, sentence correction, verb tense timelines, peer correction"
+    ],
+    "non_negotiables": "Relocation: During internship → Hyderabad, later pan-India"
+  },
+  {
+    "id": 4,
+    "question": "Describe a time when something didn’t go as planned. How did you handle it and what did you learn from it?",
+    "what_we_are_testing": [
+      "Self-awareness and reflection",
+      "Ability to improve based on feedback",
+      "Resilience in handling challenges"
+    ],
+    "expected_answer": [
+      "Example of a failed class/session",
+      "Reason why it failed",
+      "What they adapted in the future",
+      "Shows willingness to learn and improve"
+    ],
+    "non_negotiables": "Conversion to Full-Time depends on performance"
+  },
+  {
+    "id": 5,
+    "question": "How much do you rate yourself in terms of English grammar on a scale of 1 to 10?",
+    "what_we_are_testing": ["Self-assessment of grammar proficiency"],
+    "expected_answer": [],
+    "non_negotiables": "Notice Period: None"
+  },
+  {
+    "id": 6,
+    "question": "What is the difference between 'I wrote a letter' and 'I have written a letter'?",
+    "what_we_are_testing": ["Understanding of tense usage and time reference"],
+    "expected_answer": [
+      "\"I wrote a letter\" → simple past (completed action at a specific past time)",
+      "\"I have written a letter\" → present perfect (completed action with present relevance)"
+    ],
+    "non_negotiables": ""
+  },
+  {
+    "id": 7,
+    "question": "What is the difference between 'I was listening to music' and 'I had been listening to music'?",
+    "what_we_are_testing": ["Understanding of tense usage and time reference"],
+    "expected_answer": [
+      "\"I was listening to music\" → past continuous (ongoing action at a past time)",
+      "\"I had been listening to music\" → past perfect continuous (ongoing action before another past event)"
+    ],
+    "non_negotiables": ""
+  }
+]
